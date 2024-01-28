@@ -112,8 +112,8 @@ id: Togo
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Togo//
-markerFolder: ./Togo//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Togo] 
