@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TGO
 - Togo
 - توغو
 - 多哥
