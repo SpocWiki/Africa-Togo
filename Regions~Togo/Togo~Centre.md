@@ -40,11 +40,18 @@ markerFolder: ./Centre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Centre|Centre]] 
-- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Centre.public|Centre.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Centre.internal|Centre.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Centre.protect|Centre.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Centre.private|Centre.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Centre.personal|Centre.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Centre.secret|Centre.secret]] 
+
+### #is_/same_as :: [Togo~Centre](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.md) 
+
+### #is_/same_as :: [Togo~Centre.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.public.md) 
+
+### #is_/same_as :: [Togo~Centre.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.internal.md) 
+
+### #is_/same_as :: [Togo~Centre.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.protect.md) 
+
+### #is_/same_as :: [Togo~Centre.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.private.md) 
+
+### #is_/same_as :: [Togo~Centre.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.personal.md) 
+
+### #is_/same_as :: [Togo~Centre.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Centre.secret.md)
 

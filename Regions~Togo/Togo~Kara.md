@@ -40,11 +40,18 @@ markerFolder: ./Kara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Kara|Kara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Kara.public|Kara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Kara.internal|Kara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Kara.protect|Kara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Kara.private|Kara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Kara.personal|Kara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Kara.secret|Kara.secret]] 
+
+### #is_/same_as :: [Togo~Kara](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.md) 
+
+### #is_/same_as :: [Togo~Kara.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.public.md) 
+
+### #is_/same_as :: [Togo~Kara.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.internal.md) 
+
+### #is_/same_as :: [Togo~Kara.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.protect.md) 
+
+### #is_/same_as :: [Togo~Kara.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.private.md) 
+
+### #is_/same_as :: [Togo~Kara.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.personal.md) 
+
+### #is_/same_as :: [Togo~Kara.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Kara.secret.md)
 

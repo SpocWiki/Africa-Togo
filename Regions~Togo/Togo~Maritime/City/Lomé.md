@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.116667,1.216667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Togo/City/Lomé|Lomé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Togo/City/Lomé.public|Lomé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Togo/City/Lomé.internal|Lomé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Togo/City/Lomé.protect|Lomé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Togo/City/Lomé.private|Lomé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Togo/City/Lomé.personal|Lomé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Togo/City/Lomé.secret|Lomé.secret]] 
+
+### #is_/same_as :: [Lomé](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.md) 
+
+### #is_/same_as :: [Lomé.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.public.md) 
+
+### #is_/same_as :: [Lomé.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.internal.md) 
+
+### #is_/same_as :: [Lomé.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.protect.md) 
+
+### #is_/same_as :: [Lomé.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.private.md) 
+
+### #is_/same_as :: [Lomé.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.personal.md) 
+
+### #is_/same_as :: [Lomé.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.secret.md)
+

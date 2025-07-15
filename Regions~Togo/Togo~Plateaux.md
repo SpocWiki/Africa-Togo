@@ -40,11 +40,18 @@ markerFolder: ./Plateaux/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Togo/Counties/Plateaux|Plateaux]] 
-- [[../../../../../../_public/geo/Continent/Africa/Togo/Counties/Plateaux.public|Plateaux.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Togo/Counties/Plateaux.internal|Plateaux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Togo/Counties/Plateaux.protect|Plateaux.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Togo/Counties/Plateaux.private|Plateaux.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Togo/Counties/Plateaux.personal|Plateaux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Togo/Counties/Plateaux.secret|Plateaux.secret]] 
+
+### #is_/same_as :: [Togo~Plateaux](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.md) 
+
+### #is_/same_as :: [Togo~Plateaux.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.public.md) 
+
+### #is_/same_as :: [Togo~Plateaux.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.internal.md) 
+
+### #is_/same_as :: [Togo~Plateaux.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.protect.md) 
+
+### #is_/same_as :: [Togo~Plateaux.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.private.md) 
+
+### #is_/same_as :: [Togo~Plateaux.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.personal.md) 
+
+### #is_/same_as :: [Togo~Plateaux.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Plateaux.secret.md)
 

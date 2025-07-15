@@ -135,10 +135,4 @@ Capital :: [[Lomé]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Togo|Togo]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Togo.internal|Togo.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Togo.protect|Togo.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Togo.private|Togo.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Togo.personal|Togo.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Togo.secret|Togo.secret]] 
+
