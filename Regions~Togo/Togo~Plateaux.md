@@ -1,30 +1,29 @@
 ---
-location: [ 7.4 , 1.1 ] 
+location:
+  - 7.4
+  - 1.1
 type: geo-Region
 title: Plateaux
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Plateaux
-
+  - Plateaux
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # [[Togo~Plateaux]] 
