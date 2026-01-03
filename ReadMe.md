@@ -137,17 +137,17 @@ Capital :: [[Lomé]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~West/Togo/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Togo/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~West/Togo/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Togo/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Togo/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Togo/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~West/Togo/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Togo/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Togo/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Togo/ReadMe.secret|ReadMe.secret]] 
 

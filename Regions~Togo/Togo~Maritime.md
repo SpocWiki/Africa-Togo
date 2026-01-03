@@ -40,17 +40,17 @@ markerFolder: ./Maritime/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Togo~Maritime](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime|Togo~Maritime]] 
 
-### #is_/same_as :: [Togo~Maritime.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.public|Togo~Maritime.public]] 
 
-### #is_/same_as :: [Togo~Maritime.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.internal|Togo~Maritime.internal]] 
 
-### #is_/same_as :: [Togo~Maritime.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.protect|Togo~Maritime.protect]] 
 
-### #is_/same_as :: [Togo~Maritime.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.private|Togo~Maritime.private]] 
 
-### #is_/same_as :: [Togo~Maritime.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.personal|Togo~Maritime.personal]] 
 
-### #is_/same_as :: [Togo~Maritime.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime.secret|Togo~Maritime.secret]] 
 

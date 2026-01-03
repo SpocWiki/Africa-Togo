@@ -40,17 +40,17 @@ markerFolder: ./Savanes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Togo~Savanes](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes|Togo~Savanes]] 
 
-### #is_/same_as :: [Togo~Savanes.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.public|Togo~Savanes.public]] 
 
-### #is_/same_as :: [Togo~Savanes.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.internal|Togo~Savanes.internal]] 
 
-### #is_/same_as :: [Togo~Savanes.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.protect|Togo~Savanes.protect]] 
 
-### #is_/same_as :: [Togo~Savanes.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.private|Togo~Savanes.private]] 
 
-### #is_/same_as :: [Togo~Savanes.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.personal|Togo~Savanes.personal]] 
 
-### #is_/same_as :: [Togo~Savanes.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Savanes.secret|Togo~Savanes.secret]] 
 

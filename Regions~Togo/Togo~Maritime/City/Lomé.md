@@ -109,20 +109,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Lom%C3%A9) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lomé](/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé|Lomé]] 
 
-### #is_/same_as :: [Lomé.public](/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.public|Lomé.public]] 
 
-### #is_/same_as :: [Lomé.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.internal|Lomé.internal]] 
 
-### #is_/same_as :: [Lomé.protect](/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.protect|Lomé.protect]] 
 
-### #is_/same_as :: [Lomé.private](/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.private|Lomé.private]] 
 
-### #is_/same_as :: [Lomé.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.personal|Lomé.personal]] 
 
-### #is_/same_as :: [Lomé.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Togo/Regions~Togo/Togo~Maritime/City/Lomé.secret|Lomé.secret]] 
 
