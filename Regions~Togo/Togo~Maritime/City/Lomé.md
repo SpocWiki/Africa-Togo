@@ -14,24 +14,24 @@ tags:
 SpocWebEntityId: 35958
 isDeleted: false
 confidential: public
-part_of: "[[_Standards/WikiData/WD~Maritime,316291]]"
+part_of: "[[_Standards/WikiData/WD~Maritime,316291|WD~Maritime,316291]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~French_Togoland,797214]]"
-  - "[[_Standards/WikiData/WD~Togo,945]]"
+  - "[[_Standards/WikiData/WD~French_Togoland,797214|WD~French_Togoland,797214]]"
+  - "[[_Standards/WikiData/WD~Togo,945|WD~Togo,945]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~border_city,902814]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Golfe_Prefecture,3910168]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lomé,18394448]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-country: "[[_Standards/WikiData/WD~Togo,945]]"
+  - "[[_Standards/WikiData/WD~border_city,902814|WD~border_city,902814]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~port_city,2264924|WD~port_city,2264924]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Golfe_Prefecture,3910168|WD~Golfe_Prefecture,3910168]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lomé,18394448|WD~timeline_of_Lomé,18394448]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+country: "[[_Standards/WikiData/WD~Togo,945|WD~Togo,945]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Duisburg,2100]]"
-  - "[[_Standards/WikiData/WD~Shenzhen,15174]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
+  - "[[_Standards/WikiData/WD~Taipei,1867|WD~Taipei,1867]]"
+  - "[[_Standards/WikiData/WD~Duisburg,2100|WD~Duisburg,2100]]"
+  - "[[_Standards/WikiData/WD~Shenzhen,15174|WD~Shenzhen,15174]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]"
 elevation_above_sea_level: 10
 area: 90000000
 population:
@@ -44,7 +44,7 @@ population:
   - 375499
   - 837437
   - 2188376
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430|WD~Gulf_of_Guinea,41430]]"
 OmegaWiki_Defined_Meaning: "743465"
 Commons_category: Lomé
 U_S_National_Archives_Identifier: "10038257"
