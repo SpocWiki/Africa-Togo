@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kara/
 markerFolder: ./Kara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
