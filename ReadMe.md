@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 多哥共和国
 dv_UNTERM_French_Formal: la République togolaise
 dv_UNTERM_Russian: Того
 dv_UNTERM_Russian_Formal: Тоголезская Республика
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -54,7 +54,7 @@ dv_ISO2: TG
 dv_ISO3: TGO
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Togo,945|WD~Togo,945]]'
+  - '[[../../../../../WikiData/WD~Togo,945|WD~Togo,945]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~West/Togo|Togo]]'
   - '[[/_public/Earth/Continent/Africa/Africa~West/Togo.public|Togo.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~West/Togo.internal|Togo.internal]]'
@@ -339,17 +339,17 @@ dv_has_:
 dv_has_name_de: Togo
 dv_Area-Total: 56785
 dv_Area-Land: 54390
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: TG
 dv_Capital: '[[Lomé]]'
 dv_Alcohol-l: 2
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 1.21667
 dv_has_place_latitude: 6.11667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Togo,945|WD~Togo,945]]'
+- '[[../../../../../WikiData/WD~Togo,945|WD~Togo,945]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~West/Togo|Togo]]'
 - '[[/_public/Earth/Continent/Africa/Africa~West/Togo.public|Togo.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~West/Togo.internal|Togo.internal]]'
@@ -843,7 +843,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Togo/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -862,7 +862,7 @@ markerFile: [[Togo]]
 
 ```leaflet
 id: Togo_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -890,7 +890,7 @@ Capital = `=this.dv_Capital`
 
 ![[Armoiries_du_Togo.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Togo.mp3|Anthem-Togo.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Togo.mp3|Anthem-Togo.mp3]]
 
 ![[Flag_of_Togo.svg|350]]
 
